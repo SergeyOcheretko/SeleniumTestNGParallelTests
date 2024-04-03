@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","1477","","TestSuite","","testSuite.TestInteractWithInputAndButtonFieldsSuite","","openButtonPage",""
+"passed","","","2050","","TestSuite","","testSuite.TestInteractWithInputAndButtonFieldsSuite","","InteractWithInputPage",""
+"passed","","","3180","","TestSuite","","testSuite.TestInteractWithInputAndButtonFieldsSuite","","InteractWithButtonPage",""
+"passed","","","753","","TestSuite","","testSuite.TestInteractWithInputAndButtonFieldsSuite","","openLetCodePage",""
+"passed","","","1383","","TestSuite","","testSuite.TestInteractWithInputAndButtonFieldsSuite","","openInputPage",""
